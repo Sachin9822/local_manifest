@@ -1,17 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <manifest>
  <!-- Trees -->
- <default revision="refs/heads/cm-14.1"
+ <default revision="cm-14.1"
           remote="github"
           sync-c="true"
           sync-j="4"/>
   <project path="device/samsung/jfltexx" remote="github" name="LineageOS/android_device_samsung_jfltexx" />
   <project path="device/samsung/jf-common" remote="github" name="LineageOS/android_device_samsung_jf-common" />
-  <project path="device/qcom/common" remote="github" name="LineageOS/android_device_qcom_common" />
-  <project path="device/samsung/qcom-common" remote="github" name="LineageOS/android_device_samsung_qcom-common" />
-  <project path="hardware/samsung" remote="github" name="LineageOS/android_hardware_samsung" /> 
   <project path="kernel/samsung/jf" remote="github" name="LineageOS/android_kernel_samsung_jf" />
-  <project path="packages/resources/devicesettings" remote="github" name="LineageOS/android_packages_resources_devicesettings" /> 
   <project path="vendor/samsung" remote="github" name="TheMuppets/proprietary_vendor_samsung" />
 
 </manifest>

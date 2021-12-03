@@ -3,6 +3,6 @@
  <!-- Trees -->
   <project path="device/xiaomi/mia1" remote="github" name="LineageOS/android_device_xiaomi_tissot" revision="lineage-15.1"/>
   <project path="kernel/xiaomi/mia1" remote="github" name="MiCode/Xiaomi_Kernel_OpenSource" revision="tissot-n-oss"/>
-  <project path="vendor/xiaomi" remote="github" name="tissot-dev/proprietary_vendor_xiaomi" revision-"cm-15.1" />
+  <project path="vendor/xiaomi" remote="github" name="ghpranav/android_vendor_xiaomi_tissot" revision-"lineage-15.1" />
 
 </manifest>

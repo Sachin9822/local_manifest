@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <manifest>
- <remote  name="hsx02"
+ <remote  name="hsx0"
            fetch="https://gitlab.pixelexperience.org/" />
  <!-- Trees -->
   <project path="device/xiaomi/tissot" remote="github" name="PixelExperience-Devices/device_xiaomi_tissot" revision="eleven"/>
 <!--   <project path="device/xiaomi/msm8953-common" remote="github" name="Abhinavgupta371/android_device_xiaomi_msm8953-common" revision="lineage-17.0"/> -->
   <project path="kernel/xiaomi/tissot" remote="github" name="PixelExperience-Devices/kernel_xiaomi_tissot" revision="eleven"/>
-  <project path="vendor/xiaomi" remote="hsx02" name="android/vendor-blobs/vendor_xiaomi_tissot.git" revision="eleven"/>
+  <project path="vendor/xiaomi" remote="hsx0" name="android/vendor-blobs/vendor_xiaomi_tissot.git" revision="eleven"/>
 
 </manifest>

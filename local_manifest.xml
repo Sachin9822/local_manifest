@@ -10,7 +10,7 @@
   <project path="device/xiaomi/tissot" remote="zhan" name="dt_tissot" revision="13" clone-depth="1"/>
   <project path="device/xiaomi/msm8953-common" remote="zhan" name="dt_msm8953" revision="13" clone-depth="1"/>
   <project path="vendor/xiaomi/tissot" remote="nus" name="vendor_xiaomi_tissot" revision="12" clone-depth="1"/>
-  <project path="vendor/xiaomi/msm8953-common" remote="mus" name="vendor_xiaomi_msm8953-common" revision="12.1" clone-depth="1"/>
+  <project path="vendor/xiaomi/msm8953-common" remote="nus" name="vendor_xiaomi_msm8953-common" revision="12.1" clone-depth="1"/>
   <project path="kernel/xiaomi/tissot" remote="zhan" name="Cakeby_Kernel_Tissot" revision="Cakeby" clone-depth="1"/>
  <project path="prebuilts/clang/host/linux-x86/gabuters-clang" remote="gabu" name="gabuters-clang" revision="master" clone-depth="1"/>
   

@@ -16,4 +16,6 @@
         <project path="vendor/xiaomi/msm8953-common" name="vendor_xiaomi_msm8953-common" remote="sachin" revision="EVO" clone-depth="1" />
 	<project path="kernel/xiaomi/msm8953" name="cakeby_kernel" remote="Cake" revision="NON-OC" clone-depth="1" />
         <project path="prebuilts/clang/host/linux-x86/proton-clang" name="proton-clang" remote="sachin" revision="master" clone-depth="1" />
+        <!-- Resources -->
+        <project path="packages/resources/devicesettings" remote="los" name="android_packages_resources_devicesettings" revision="lineage-19.1" />
 </manifest>

@@ -20,6 +20,5 @@
         <project path="vendor/xiaomi/tissot" name="vendor_xiaomi_tissot" remote="sachin" revision="13.0" clone-depth="1" />
         <project path="vendor/xiaomi/msm8953-common" name="vendor_xiaomi_msm8953-common" remote="sachin" revision="EVO" clone-depth="1" />
 	<project path="kernel/xiaomi/msm8953" name="cakeby_kernel" remote="Cake" revision="NON-OC" clone-depth="1" />
-	<project path="prebuilts/clang/host/linux-x86/proton-clang" name="proton-clang" remote="sachin" revision="master" clone-depth="1" />
        
 </manifest>

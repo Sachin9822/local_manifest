@@ -12,6 +12,8 @@
                 
         <remote name="pe" 
                 fetch="https://github.com/PixelExperience-Devices" />
+        <remote name="gi"
+                fetch="https://github.com" />
 
 
         <project path="device/xiaomi/tissot" name="android_device_xiaomi_tissot" remote="sachin" revision="pixel" clone-depth="1" />
@@ -20,5 +22,6 @@
         <project path="vendor/xiaomi/tissot" name="vendor_xiaomi_tissot" remote="sachin" revision="13.0" clone-depth="1" />
         <project path="vendor/xiaomi/msm8953-common" name="vendor_xiaomi_msm8953-common" remote="sachin" revision="EVO" clone-depth="1" />
 	<project path="kernel/xiaomi/msm8953" name="cakeby_kernel" remote="Cake" revision="NON-OC" clone-depth="1" />
+	<project path="prebuilts/clang/host/linux-x86/gabuters-clang" name="Gabuters-Dev/gabuters-clang" remote="gi" revision="master" />
        
 </manifest>

@@ -9,7 +9,7 @@
 
         <remote name="los" fetch="https://github.com/LineageOS" />
         <remote name="launcher" fetch="https://github.com/StudioKeys" />
-
+        <project path="vendor/PixelLauncher" name="vendor_PixelLauncher" remote="launcher" revision="13" clone-depth="1" />
 	<remove-project name="android_hardware_lineage_compat" />
 	<remove-project name="frameworks_base" />
         <project path="frameworks/base" name="frameworks_base" remote="sachin" revision="13" clone-depth="1" />

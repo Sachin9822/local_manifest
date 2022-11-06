@@ -27,10 +27,10 @@
         <project path="device/xiaomi/msm8953-common" name="device_xiaomi_msm8953-common" remote="sachin" revision="pixel" clone-depth="1" />
         <project path="vendor/xiaomi/tissot" name="vendor_xiaomi_tissot" remote="sachin" revision="13.0" clone-depth="1" />
         <project path="vendor/xiaomi/msm8953-common" name="vendor_xiaomi_msm8953-common" remote="sachin" revision="pixel" clone-depth="1" />
-	<project path="kernel/xiaomi/msm8953" name="zhantech/android_kernel_msm8953" remote="rem" revision="Pringgodani" />
+	<project path="kernel/xiaomi/msm8953" name="cakeby_kernel" remote="cake" revision="NON-OC" />
         <remove-project name="hardware_custom_compat" />
        <!-- CLANG -->
-    <project path="prebuilts/clang/host/linux-x86/clang-r450784d" name="Amritorock/clang-r450784d" remote="gitlab" revision="master" clone-depth="1" />
+    <project path="prebuilts/clang/host/linux-x86/proton-clang" name="proton-clang" remote="cake" revision="master" clone-depth="1" />
     <project path="prebuilts/clang/host/linux-x86/clang-r437112b" name="arrowos-project/android_prebuilts_clang_host_linux-x86_clang-r437112b" remote="gitlab" revision="master" />
        
 </manifest>

@@ -6,7 +6,7 @@
         <remote name="sachin"
                 fetch="https://github.com/Sachin9822" />
 
-        <remote name="Cake"
+        <remote name="cake"
                 fetch="https://github.com/Anothermi1" />
 
         <remote name="los" 

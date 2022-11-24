@@ -6,6 +6,9 @@
 
         <remote name="Cake"
                 fetch="https://github.com/Anothermi1" />
+        <remote name="ImSurajxD"
+                fetch="https://gitlab.com/ImSurajxD" />
+
 
         <remote name="los" fetch="https://github.com/LineageOS" />
         <remote name="launcher" fetch="https://github.com/StudioKeys" />
@@ -17,4 +20,5 @@
         <project path="vendor/xiaomi/msm8953-common" name="vendor_xiaomi_msm8953-common" remote="sachin" revision="ProjectBlaze" clone-depth="1" />
 	<project path="kernel/xiaomi/msm8953" name="cakeby_kernel" remote="Cake" revision="NON-OC" clone-depth="1" />
         <project path="prebuilts/clang/host/linux-x86/proton-clang" name="proton-clang" remote="sachin" revision="master" clone-depth="1" />
+	<project path="prebuilts/clang/host/linux-x86/clang-r450784d" name="clang-r450784d" remote="ImSurajxD" revision="master" />
 </manifest>

@@ -30,7 +30,6 @@
 	<project path="kernel/xiaomi/msm8953" name="cakeby_kernel" remote="cake" revision="NON-OC" />
 	
 	<project path="vendor/partner_gms" name="lineageos4microg/android_vendor_partner_gms" remote="github" revision="master" />
-        <remove-project name="android_hardware_lineage_compat" />
        <!-- CLANG -->
     <project path="prebuilts/clang/host/linux-x86/proton-clang" name="proton-clang" remote="cake" revision="master" clone-depth="1" />
     <project path="prebuilts/clang/host/linux-x86/clang-r450784d" name="clang-r450784d" remote="ImSurajxD" revision="master" />

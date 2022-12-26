@@ -8,6 +8,7 @@
                 fetch="https://github.com/Anothermi1" />
 
         <remote name="los" fetch="https://github.com/LineageOS" />
+	<remove-project name="android_hardware_lineage_compat" />
 
 
         <project path="device/xiaomi/tissot" name="android_device_xiaomi_tissot" remote="sachin" revision="13" clone-depth="1" />
